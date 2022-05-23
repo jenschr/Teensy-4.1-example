@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MIMXRT1062DVJ6B")(type "KiCad")(uri "${KIPRJMOD}/MIMXRT1062DVJ6B/MIMXRT1062DVJ6B.kicad_sym")(options "")(descr ""))
+)
