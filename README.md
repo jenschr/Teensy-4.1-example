@@ -26,3 +26,8 @@ Not included (from PJRC's design)
 - Ethernet
 
 Note: the schematic symbol for the IMXRT1062 chip is really clumsy and makes the schematic more complex than required, but that's what you get if you use SamacSys Library Loader rather than making the symbol yourself.
+
+## Picture
+Here's a picture of the boards when I soldered them:
+
+![./img/IMG_20220315_183842.jpg](./img/IMG_20220315_183842_s.jpg)
