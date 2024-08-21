@@ -1,6 +1,8 @@
 # Teensy 4.1 Kicad example project
 Kicad files to make a custom Teensy 4.1, based on the official Teensy schematics, but exposing all pins for testing. All the 55 pins except D41 are brought out for testing. I'm using a USB Type C receptacle rather than USB Micro / A connectors. Don't forget that you'll need to buy the MKL02Z32VFG4 from PJRC for this to work. Also - be sure to scroll down on the MKL02Z32VFG4 page. There are [lots of important information there](https://www.pjrc.com/store/ic_mkl02_t4.html) on power sequencing and layout.
 
+I'm a consultant based in Oslo/Norway, so [get in touch](https://maketronics.no/about/) if you need custom hardware based on Teensy 4.x.
+
 ## Know bugs
 This version is tested and works, but the MAX1562 that I used for the USB switch has inverted polarity from what is expected. You can get around this by using the alternate part MAX1563, or something else. Only reason I went with this 4A chip is the parts shortage.
 
